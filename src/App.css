@@ -49,6 +49,7 @@
 
 .formulario .row button:hover {
     box-shadow: rgba(0,0,0, .35) .25em .25em .9em -.2em;
+    opacity: .85;
 }
 
 .formulario .row button:active {
